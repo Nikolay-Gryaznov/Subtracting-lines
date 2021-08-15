@@ -1,0 +1,2 @@
+By subtraction of strings we mean an operation in which all letters of the subtracted are deleted from the reduced, and if there were no such letters in the reduced, 
+they are appended to the end of the index, which is reduced in the order of bypassing the index subtracted from 0, to the last one.
